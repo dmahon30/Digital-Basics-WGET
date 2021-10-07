@@ -33,9 +33,9 @@ WGET could help my research by pulling text files, like oral history transcripts
 
 Screenshots of the code and file pulled:
 
-![terminal](pulling-war-diary)
+![terminal](pulling-war-diary.png)
 
-![wardiary](war-diary)
+![wardiary](war-diary.png)
 
 ---
 
